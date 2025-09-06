@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leetcode-progress-tracker/static/css/main.47b08eb4.css",
+    "main.js": "/leetcode-progress-tracker/static/js/main.12d0a9c6.js",
+    "index.html": "/leetcode-progress-tracker/index.html",
+    "main.47b08eb4.css.map": "/leetcode-progress-tracker/static/css/main.47b08eb4.css.map",
+    "main.12d0a9c6.js.map": "/leetcode-progress-tracker/static/js/main.12d0a9c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47b08eb4.css",
+    "static/js/main.12d0a9c6.js"
+  ]
+}
