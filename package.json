@@ -1,7 +1,7 @@
 {
   "name": "leetcode-progress-tracker",
   "version": "1.0.0",
-  "homepage": "https://yourusername.github.io/leetcode-progress-tracker",
+  "homepage": "https://mahendranv2005.github.io/leetcode-data-fetch",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
